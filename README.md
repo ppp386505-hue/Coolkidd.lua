@@ -1,0 +1,2 @@
+# Coolkidd.lua
+Delta only
